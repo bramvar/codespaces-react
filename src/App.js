@@ -7,6 +7,9 @@ function App() {
         <div>
           Mesaje de prueba
         </div>
+        <div>
+          Otro mensaje de prueba
+        </div>
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
           GitHub Codespaces <span className="heart">♥️</span> React
